@@ -1,7 +1,5 @@
 # Hi there 👋, I'm Mahammad Nisar👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=Mn-Nisar&style=flat-square)
-
 ## 👨‍💻 About Me
 Senior Data Scientist | Full Stack Developer specializing in designing and implementing software systems for exploratory data analysis of multi-omics data, developing and deploying full-stack open-source web applications, and delivering software solutions to advance our understanding of biological systems. Proficient in Python, Django, Pandas, JavaScript, React.js, and SQL, with extensive expertise in data analysis tools, database development, and deployment. With a strong foundation in data science principles and the software development lifecycle, I excel in both independent and collaborative settings. I am seeking a challenging role in a data-driven organization to leverage my technical skills and contribute to impactful solutions.
 
@@ -20,3 +18,8 @@ Senior Data Scientist | Full Stack Developer specializing in designing and imple
 ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat&logo=apachespark&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat&logo=machine-learning&logoColor=white)
 ![Statistics](https://img.shields.io/badge/Statistics-4CAF50?style=flat&logo=signal&logoColor=white)
+
+## 📊 GitHub Stats
+
+![Mahammad Nisar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mn-Nisar&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mn-Nisar&layout=compact&theme=radical)
