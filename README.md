@@ -1,5 +1,7 @@
 # Hi there 👋, I'm Mahammad Nisar👋
 
+![Profile Views](https://komarev.com/ghpvc/?username=Mn-Nisar&style=flat-square)
+
 ## 👨‍💻 About Me
 Senior Data Scientist | Full Stack Developer specializing in designing and implementing software systems for exploratory data analysis of multi-omics data, developing and deploying full-stack open-source web applications, and delivering software solutions to advance our understanding of biological systems. Proficient in Python, Django, Pandas, JavaScript, React.js, and SQL, with extensive expertise in data analysis tools, database development, and deployment. With a strong foundation in data science principles and the software development lifecycle, I excel in both independent and collaborative settings. I am seeking a challenging role in a data-driven organization to leverage my technical skills and contribute to impactful solutions.
 
